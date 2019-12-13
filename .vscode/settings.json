@@ -1,0 +1,10 @@
+{
+    "workbench.editor.tabSizing": "shrink",
+    "editor.folding": false,
+    "editor.glyphMargin": false,
+    "editor.smoothScrolling": true,
+    "prettier.disableLanguages": [
+        "json"
+    ],
+    "editor.defaultFormatter": "vscode.json-language-features"
+}
